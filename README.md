@@ -1,4 +1,4 @@
-First Release 1.0
+First Release V1.0
 
 A tools that convert MD5, SHA-1, SHA-256 & SHA-512 hashes value using python.
 
